@@ -1,0 +1,285 @@
+body{
+    background-color: #000 ;
+    width: 70%; 
+    color: #0d0;
+    margin: 0 auto;
+    padding: 0% 5px;
+    
+    
+    
+
+
+}
+header{
+    background-color: #0e0e0e;
+    padding: 1%;
+    margin: 0;
+    width: 1043px;
+    display: flex;
+    justify-content: space-between;
+    align-content: flex-start;
+    align-items: center;
+    flex-direction: row;
+    
+}
+
+.nav2{
+    display: flex;
+    position: relative;
+    left: 140px;
+    font-size: 20px;
+    
+}
+.nav4{
+
+    display: flex;
+    font-size: 20px;
+    position: relative;
+    right: 70px;
+    
+
+}
+
+.nav3{
+    display:block;
+    padding-left: 9px;
+    font-family:  'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.cadastro{
+    border-radius:5px;
+    display: flex;
+    border: 1px solid #000;
+    background-color: #050505;
+    margin-bottom: 10px ;
+    margin-top: 10px;
+    margin-right: 0%;
+    padding: 1px;
+    height: 48px;
+    align-items: baseline;
+    box-shadow: 1px 2px rgb(1, 1, 1)
+    
+}
+.corpao{
+    padding: 50px 30px;
+    background-color: #2b2a2a;
+    padding: 3px 10px 1px 32px;
+   
+    
+}
+h1{
+    font-size: 70px;
+}
+
+.nav1{
+    display:flex;
+    width: 70%;
+    margin: 0 auto;
+}  
+
+.title-box{
+    border-radius: 3px;
+    
+    background-color: #040404;
+    padding: 3px;
+    
+}
+main{
+    border-radius: 6px;
+}
+
+h3{
+    margin: 2px;
+    padding: 5px;
+}
+main{
+    background-color: #0b0b0b;
+    margin-right: 40%;
+    
+}
+.box-content{
+    box-shadow: 1px 2px rgb(1, 1, 1);
+    
+    
+
+}
+section{
+    border-radius: 4px;
+    
+}
+.objects{
+    padding-left: 14px;
+    margin-top: 3px;
+    font-size: 18px;
+}
+
+.firstblock{
+    position: relative;
+    left: 8px;
+    bottom: 6px;
+    font-size: 17px;
+    
+}
+
+ a{
+    color: #0d0;
+}
+.secondblock a{
+    text-decoration: none;
+    color: #0d0;
+}
+
+
+    
+
+input{
+    background-color: #000;
+    border: 0px solid;
+    position: relative;
+    bottom: 9px;
+    left: 460px;
+    width: 309px;
+    height: 47px;
+    font-size:15px;
+    padding-left: 5px;
+}
+.secondblock{
+
+    background-color: rgba(85, 84, 84, 0.898);
+    
+    width: 61px;
+    padding: 15px 12px;
+    position:relative;
+    left: 40px;
+    bottom: 8px;
+    border-radius: 3px;
+
+}
+.nav2 img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 21px;
+    right: 5px;
+    size: 30px;
+}
+.nav4 img{
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 21px;
+    right: 5px;
+    size: 30px;
+}
+header a{
+    text-decoration: none;
+    color: #0d0;
+    
+}
+
+.nav3 img{
+    width: 350px;
+    height: 160px;
+}
+
+.navegar{
+    border-radius:5px;
+    display: flex;
+    border: 1px solid #000;
+    background-color: #101010;
+    margin-bottom: 10px ;
+    margin-top: 10px;
+    margin-right: 0%;
+    padding: 1px;
+    height: 25px;
+    align-items: baseline;
+    box-shadow: 1px 2px rgb(1, 1, 1)
+}
+.home{
+    display: flex;
+    
+    position: relative;
+   
+    left: 14px;
+    bottom: 16px;
+}
+.palito{
+    background-color: #2b2a2a;
+    width: 1px;
+    height: 35px;
+    position: relative;
+    left: 30px;
+}
+.palito2{
+    background-color: #2b2a2a;
+    width: 1px;
+    height: 35px;
+    position: relative;
+    left: 840px;
+
+}
+.activity{
+    display: flex;
+    position: relative;
+    left: 850px;
+    bottom: 12px;
+    
+}
+
+
+/*ASIDE1 TIME*/
+
+.popular-subject{
+    border-radius: 2px;
+    background-color: #040404;
+width: 385px;
+    height: 32px;
+    padding: 5px;
+    
+}
+
+
+aside{
+    position: relative;
+    left: 630px;
+    bottom: 746px;
+    
+}
+.popular{
+    background-color: #0b0b0b;
+    width: 393px;
+    box-shadow: 1px 1px #000 ;
+    border-radius: 2px;
+    height: 445px;
+    
+}
+.aside-content{
+    padding-left: 5px; 
+    display: flex;
+    justify-content: space-around;
+}
+.content1{
+    position: relative;
+    right: 3px;
+}
+.content2{
+    position: relative;
+    right: 6px;
+}
+.content3{
+    position: relative;
+    right: 4px;
+}
+hr{
+   position: relative;
+   bottom:20px;
+
+}
+
+
+
+    
+
+
+
+
